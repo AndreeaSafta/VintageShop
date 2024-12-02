@@ -1,0 +1,16 @@
+/build/
+/res/drawable/
+/res/layout/*.xml
+*.log
+*.iml
+.idea/
+.gradle/
+/local.properties
+.cxx/
+.externalNativeBuild/
+/captures/
+.cache/
+*.class
+*.apk
+*.aar
+*.jar

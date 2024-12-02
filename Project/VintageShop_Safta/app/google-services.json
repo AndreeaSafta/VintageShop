@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533842438057",
+    "project_id": "vintageshop-6962f",
+    "storage_bucket": "vintageshop-6962f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533842438057:android:05259a9741c54d4271c6b8",
+        "android_client_info": {
+          "package_name": "com.example.vintageshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjpb0iNXo9ePhEB5SQx8ou-6dTt7yM1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
